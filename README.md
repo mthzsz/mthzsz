@@ -5,15 +5,15 @@ Apaixonado por tecnologia, automação e soluções que fazem a diferença no di
 
 <h2>Projeto do Curso Técnico</h2>
 
-<p>Desenvolvi um projeto focado em <b>[tema do projeto, ex: sistema de controle de estoque]</b> utilizando as tecnologias abaixo. Esse projeto me permitiu aplicar conhecimentos práticos e aprimorar habilidades técnicas.</p>
+<p>Desenvolvi um projeto focado em <b>[tema do projeto]</b> que me permitiu aplicar conhecimentos práticos e aprimorar habilidades técnicas.</p>
 
-<h3>Tecnologias e Ferramentas</h3>
+<h3>Tecnologias</h3>
 
-<ul>
-  <li>💻 <b>Linguagens:</b> Python <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="20" height="20" style="vertical-align:middle;">, HTML <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/html5.svg" alt="HTML5" width="20" height="20" style="vertical-align:middle;">, CSS <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg" alt="CSS3" width="20" height="20" style="vertical-align:middle;"></li>
-  <li>☁️ <b>Cloud & Infraestrutura:</b> Azure, Microsoft Intune, Gestão de Ativos</li>
-  <li>🛠️ <b>Desenvolvimento:</b> Windows Forms, SQL Server, Automação de processos</li>
-</ul>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="vertical-align:middle;">
+</p>
 
 <h2>Sobre mim</h2>
 
