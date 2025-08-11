@@ -20,7 +20,6 @@ Apaixonado por tecnologia, automação e soluções que fazem a diferença no di
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="vertical-align:middle; margin-right:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" style="vertical-align:middle; margin-right:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Microsoft_365_logo.svg" alt="Microsoft 365" width="40" height="40" style="vertical-align:middle;">
 </p>
 
 <h2>Sobre mim</h2>
@@ -34,8 +33,8 @@ Apaixonado por tecnologia, automação e soluções que fazem a diferença no di
 <h2>Contato</h2>
 
 <ul>
-  <li>📧 matheus.seuemail@exemplo.com</li>
-  <li>🔗 <a href="https://www.linkedin.com/in/seulink" target="_blank">LinkedIn</a></li>
+  <li>📧 pinheiromatheusgg@gmail.com</li>
+  <li>🔗 <a href="https://www.linkedin.com/in/matheus-pinheiro100/" target="_blank">LinkedIn</a></li>
 </ul>
 
 <hr>
