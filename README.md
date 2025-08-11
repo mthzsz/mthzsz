@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Olá, eu sou o Matheus 👋</h1>
 
 <p>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e profissional de <b>Infraestrutura de TI</b>.<br>
@@ -24,7 +22,7 @@ Apaixonado por tecnologia, automação e soluções que fazem a diferença no di
 <h2>Contato</h2>
 
 <ul>
-  <li>📧 matheus.seuemail@exemplo.com</li>
+  <li>📧 pinheiromatheusgg@gmail.com</li>
   <li>🔗 <a href="https://www.linkedin.com/in/seulink" target="_blank">LinkedIn</a></li>
 </ul>
 
