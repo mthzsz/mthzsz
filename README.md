@@ -5,7 +5,7 @@ Apaixonado por tecnologia, automação e soluções que fazem a diferença no di
 
 <h2>Projeto do Curso Técnico</h2>
 
-<p>Desenvolvi um projeto focado em <b>[tema do projeto]</b> que me permitiu aplicar conhecimentos práticos e aprimorar habilidades técnicas.</p>
+<p>Desenvolvi um projeto focado em um <b>Sistema PDV</b> que me permitiu aplicar conhecimentos práticos e aprimorar habilidades técnicas.</p>
 
 <h3>Tecnologias de Desenvolvimento</h3>
 
